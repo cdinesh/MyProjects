@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/HandsOnAI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeadConversion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwitterSentimentAnalysis/CapstoneProjectForSubmission/Deployment/Real-time-Twitter-Monitoring-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwitterSentimentAnalysis/CapstoneProjectForSubmission/Deployment/Real-time-Twitter-Scraping-System" vcs="Git" />
+  </component>
+</project>
