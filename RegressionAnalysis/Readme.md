@@ -1,4 +1,10 @@
-# Setps to run the analyis
+Canonical documentation for this project is in **[README.md](./README.md)** (portfolio + notebook inventory).
+
+The sections below are retained for **course environment** setup (Georgia Tech ISyE-style clone paths). Prefer the paths on your machine when working locally.
+
+---
+
+# Steps to run the analysis
 
 # 1. Clone the Repository
 
@@ -69,3 +75,7 @@ pip uninstall xgboost
 pip install xgboost 
 4. On Apple Silicon 
 pip install xgboost --no-binary xgboost
+
+---
+
+**Note:** Due to storage limits, the dataset is not included in this repository and can be made available upon request.
