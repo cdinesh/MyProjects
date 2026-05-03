@@ -1,7 +1,6 @@
 # Portfolio — Data Science, ML & AI Engineering
 
-This repository is a **curated collection of end-to-end analytical work**: from **regression and credit risk** to **NLP, marketing attribution, fraud detection, and modern AI systems**. It is structured so hiring managers and technical leaders can quickly see **scope, methods, and business alignment**.
-
+This repository is a **curated collection of end-to-end analytical work**: from **regression and credit risk** to **NLP, marketing attribution, fraud detection, and modern AI systems**. 
 ---
 
 ## Leadership narrative
